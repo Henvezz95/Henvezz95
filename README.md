@@ -28,9 +28,9 @@ inference on edge hardware.
 
 ### 📂 Open-Source Projects
 
-| Project | Description | Hardware / Venue |
-| :--- | :--- | :--- |
-| **[VAR-Compressor](https://github.com/Henvezz95/VAR-Compressor)** | Compression and deployment framework for Visual Autoregressive (VAR) generative models. Developed during visiting period at **ETH Zurich**. | NVIDIA Jetson Orin |
-| **[Mosaic-SR](https://github.com/Henvezz95/mosaic-sr)** | Patent-pending super-resolution algorithm with custom NEON/AVX kernels. **+30%** industrial scanner range. | IEEE ICIP 2025 |
-| **[BarBeR](https://github.com/Henvezz95/BarBeR)** & **[BaFaLo](https://github.com/Henvezz95/BarBeR/tree/main/BaFaLo)** | CNN architectures and benchmarking repository for barcode localization on edge CPUs. | ICPR 2024 · Eng. App. of AI |
-| **[FOOT DaQ](https://github.com/Henvezz95/FOOT-Data-Acquisition-System)** | VHDL data acquisition system for nuclear physics experiments on FPGA. | Intel Cyclone V |
+| Project | Description |
+| :--- | :--- |
+| **[VAR-Compressor](https://github.com/Henvezz95/VAR-Compressor)** | Compression framework for Visual Autoregressive (VAR) generative models, validated on **NVIDIA Jetson Orin**. Developed during visiting period at **ETH Zurich**. |
+| **[Mosaic-SR](https://github.com/Henvezz95/mosaic-sr)** | Patent-pending super-resolution algorithm with custom **NEON/AVX** kernels achieving **+30%** industrial scanner range. Published at **IEEE ICIP 2025**. |
+| **[BarBeR](https://github.com/Henvezz95/BarBeR)** & **[BaFaLo](https://github.com/Henvezz95/BarBeR/tree/main/BaFaLo)** | CNN architectures and benchmarking repository for barcode localization, optimized for **Arm CPU** edge platforms. Published at **ICPR 2024** and **Eng. App. of AI**. |
+| **[FOOT DaQ](https://github.com/Henvezz95/FOOT-Data-Acquisition-System)** | VHDL data acquisition system for nuclear physics experiments on **Intel Cyclone V FPGA**. |
