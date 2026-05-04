@@ -34,3 +34,4 @@ inference on edge hardware.
 | **[Mosaic-SR](https://github.com/Henvezz95/mosaic-sr)** | Patent-pending super-resolution algorithm with custom **NEON/AVX** kernels achieving **+30%** industrial scanner range. Published at **IEEE ICIP 2025**. |
 | **[BarBeR](https://github.com/Henvezz95/BarBeR)** & **[BaFaLo](https://github.com/Henvezz95/BarBeR/tree/main/BaFaLo)** | CNN architectures and benchmarking repository for barcode localization, optimized for **Arm CPU** edge platforms. Published at **ICPR 2024** and **Eng. App. of AI**. |
 | **[FOOT DaQ](https://github.com/Henvezz95/FOOT-Data-Acquisition-System)** | VHDL data acquisition system for nuclear physics experiments on **Intel Cyclone V FPGA**. |
+| **[im2col SIMD](https://github.com/Henvezz95/im2col_2D)** | SIMD-optimized im2col for 2D tensors with **AVX2** (x86_64) and **NEON** (Armv8) implementations, plus Python Ctypes wrapper. |
